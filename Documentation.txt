@@ -1,0 +1,3 @@
+Using machine vision, laser scanners, and automatic motion control, 
+these machines can identify tree maturity and guide forest managers
+on which trees should be cut down and which should be left to grow
